@@ -27,7 +27,6 @@
 2. Использование модулей tkinter и ttk
 
 # Установка
-# Клонирование репозитория
 git clone <repository-url>
 cd fibonacci-visualization
 
